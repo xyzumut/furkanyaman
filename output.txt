@@ -1,0 +1,179 @@
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading0">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse0" aria-expanded="false" aria-controls="collapse0">How can Fitwel Consulting Benefit My Project?</button>
+        </h3>
+        <div id="collapse0" class="accordion-collapse collapse" aria-labelledby="heading0" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel consulting can enhance your project by providing expert guidance on incorporating health-focused design and operational strategies, potentially leading to improved occupant wellness, increased building marketability, and alignment with broader sustainability and wellness goals.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading2">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+    How do I choose a Fitwel consultancy company for my project?</button>
+        </h3>
+        <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    To choose a Fitwel consultancy, look for proven experience in Green Building projects, a portfolio of certified buildings, client testimonials, and consultants with green building expertise. Ensure they understand your project's specific needs and offer clear strategies for achieving certification.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading4">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+    Can existing buildings become Fitwel certified?</button>
+        </h3>
+        <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Yes, existing buildings can become Fitwel certified. The certification process evaluates buildings based on health-focused criteria and is applicable to both new and existing structures, encouraging improvements that enhance the well-being of their occupants.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading6">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+    What is the Fitwel Certification Process?</button>
+        </h3>
+        <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    The Fitwel certification process involves registering a building, completing a scorecard, submitting it for review, and implementing necessary changes. It assesses health-focused criteria in building design and operations, leading to certification upon meeting required standarts.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading8">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+    How does Fitwel Certification align with Saudi Arabia's Vision 2030 goals for sustainable and healthy urban development?</button>
+        </h3>
+        <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification aligns with Saudi Arabia's Vision 2030 by promoting sustainable, healthy building designs, enhancing occupant well-being, and contributing to environmentally responsible urban development goals.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading10">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+    What are the challenges and opportunities for implementing Fitwel Certification in the UAE's rapidly developing urban landscapes?</button>
+        </h3>
+        <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Implementing Fitwel in the UAE offers opportunities to enhance wellness in its modern infrastructure, but faces challenges in integrating health-centric designs within existing rapid urban development frameworks.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading12">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+    How can Fitwel Certification complement the UK's existing building standards to further promote occupant health and wellness in urban environments?</button>
+        </h3>
+        <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification complements UK building standards by emphasizing occupant health and wellness, focusing on areas like air quality, fitness, nutrition, and mental well-being in urban building designs.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading14">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+    In the context of Germany's strong focus on environmental sustainability, how does Fitwel Certification contribute to enhancing indoor health and well-being in German buildings?</button>
+        </h3>
+        <div id="collapse14" class="accordion-collapse collapse" aria-labelledby="heading14" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification complements Germany's environmental efforts by emphasizing indoor health, promoting well-being through air quality, nutrition, fitness, and mental health initiatives in building design and operations.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading16">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+    Considering Japan's unique architectural styles and dense urban areas, how is Fitwel Certification being adapted and applied in the Japanese context?</button>
+        </h3>
+        <div id="collapse16" class="accordion-collapse collapse" aria-labelledby="heading16" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    In Japan, Fitwel Certification is adapted to align with unique architectural styles and dense urban living, focusing on maximizing occupant health in compact spaces and promoting wellness in a high-density environment.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading18">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
+    What role can Fitwel Certification play in South Korea's smart city initiatives, particularly in improving the health aspects of residential and commercial buildings?</button>
+        </h3>
+        <div id="collapse18" class="accordion-collapse collapse" aria-labelledby="heading18" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    In Japan, Fitwel Certification is adapted to align with unique architectural styles and dense urban living, focusing on maximizing occupant health in compact spaces and promoting wellness in a high-density environment.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading20">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
+    What role can Fitwel Certification play in South Korea's smart city initiatives, particularly in improving the health aspects of residential and commercial buildings?</button>
+        </h3>
+        <div id="collapse20" class="accordion-collapse collapse" aria-labelledby="heading20" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification in South Korea's smart cities can enhance residential and commercial building health, promoting well-being, sustainability, and integrating technology for improved occupant health outcomes.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading22">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse22" aria-expanded="false" aria-controls="collapse22">
+    How can Fitwel Certification support Malta's efforts in improving public health standards through better building designs, given its unique Mediterranean climate and historical architecture?</button>
+        </h3>
+        <div id="collapse22" class="accordion-collapse collapse" aria-labelledby="heading22" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification can guide Malta in blending modern health-focused building practices with its unique Mediterranean climate and historical architecture, enhancing public health standards while preserving cultural heritage.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading24">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse24" aria-expanded="false" aria-controls="collapse24">
+    As Qatar continues to develop its infrastructure for global events, how is Fitwel Certification being considered in the design and operation of new buildings?</button>
+        </h3>
+        <div id="collapse24" class="accordion-collapse collapse" aria-labelledby="heading24" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    In Qatar, Fitwel Certification is increasingly considered for new buildings, aligning with global events, to ensure health-focused design and operations, enhancing occupant well-being and sustainability standards.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading26">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse26" aria-expanded="false" aria-controls="collapse26">
+    How can Fitwel Certification be leveraged in Oman to enhance the health and well-being aspects of its growing urban and residential developments?</button>
+        </h3>
+        <div id="collapse26" class="accordion-collapse collapse" aria-labelledby="heading26" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification in Oman can enhance urban and residential health by promoting healthier building designs and operations, aligning with Oman's urban development plans for improved public wellness.</p>
+          </div>
+        </div>
+      </div>
+<div class="accordion-item">
+        <h3 class="accordion-header" id="heading28">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse28" aria-expanded="false" aria-controls="collapse28">
+    In the context of Switzerland's emphasis on high-quality living standards, how is Fitwel Certification contributing to the health and wellness of building occupants?</button>
+        </h3>
+        <div id="collapse28" class="accordion-collapse collapse" aria-labelledby="heading28" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            <p>
+    Fitwel Certification in Switzerland enhances building designs and operations, focusing on occupant health and wellness, aligning with the nation's commitment to high-quality, sustainable living standards.</p>
+          </div>
+        </div>
+      </div>

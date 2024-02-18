@@ -1,0 +1,234 @@
+  
+   
+    <script src="https://erketasarim.com/public/base/plugin/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://erketasarim.com/public/base/plugin/owlcarousel2/owl.carousel.min.js"></script>
+    <script src="https://erketasarim.com/public/base/plugin/hc-offcanvas/hc-offcanvas-nav.js"></script>
+    <script src="https://erketasarim.com/public/base/plugin/jquery.cookie.js"></script>
+    <script src="https://erketasarim.com/public/base/plugin/lity/lity.min.js"></script>
+
+    <script src="../cdn.jsdelivr.net/npm/masonry-layout%404.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+
+
+   <!-- REVOLUTION JS FILES -->
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/jquery.themepunch.tools.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/jquery.themepunch.revolution.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/addons/revolution.addon.slicey.min.js"></script>
+
+   <!-- SLIDER REVOLUTION 5.0 EXTENSIONS   -->
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+   <script type="text/javascript" src="https://erketasarim.com/public/base/plugin/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+
+   
+    <script src="https://erketasarim.com/public/base/plugin/main/js/custom.js"></script>
+  
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function($) {
+
+            const wg_menu_image = document.createElement('img');
+                wg_menu_image.setAttribute(
+                    'src',
+                    'https://erketasarim.com/public/base/images/logo.svg',
+                );
+
+            $('#main-nav').hcOffcanvasNav({
+            disableAt: 1024,
+            customToggle: $('.mobil-toggle'),
+            levelTitles: true,
+            levelTitleAsBack: true,
+            labelClose:       wg_menu_image,
+            labelBack:        'Geri',
+            disableBody:        false,
+            width:'100%',
+            });
+
+        });
+
+        $( ".mobil-toggle" ).click(function() {
+            $("#hc-nav-1-1-0").remove();
+            
+        });
+        
+    </script>
+
+        <script type="text/javascript">
+
+
+        $( ".cokkie-ok" ).on( "click", function() {
+                $.cookie("kvkk", "okey", {expires: 180})
+            });
+
+            $( ".fix-bottom-close" ).on( "click", function() {
+            $(".navbar-fixed-bottom").hide();
+        });
+
+        </script>
+<script>
+       var revapi52,
+           tpj=jQuery;
+       tpj(document).ready(function() {
+           if(tpj("#rev_slider_251_1").revolution == undefined){
+               revslider_showDoubleJqueryError("#rev_slider_251_1");
+           }else{
+               revapi52 = tpj("#rev_slider_251_1").show().revolution({
+                   sliderType:"standard",
+                   jsFileLocation:"/public/base/plugin/revolution/js/",
+                   sliderLayout:"fullscreen",
+                   dottedOverlay:"none",
+                   delay:5000,
+                   navigation: {
+                       keyboardNavigation:"on",
+                       keyboard_direction: "vertical",
+                       mouseScrollNavigation:"off",
+                       mouseScrollReverse:"default",
+                       onHoverStop:"off",
+                       bullets: {
+                           enable:true,
+                           hide_onmobile:true,
+                           hide_under:1024,
+                           style:"hermes",
+                           hide_onleave:false,
+                           direction:"horizontal",
+                           h_align:"left",
+                           v_align:"bottom",
+                           h_offset:80,
+                           v_offset:80,
+                           space:5,
+                           tmp:''
+                       }
+                   },
+                   viewPort: {
+                       enable:true,
+                       outof:"wait",
+                       visible_area:"80%",
+                       presize:true
+                   },
+                   responsiveLevels:[1240,1024,778,480],
+                   visibilityLevels:[1240,1024,778,480],
+                   gridwidth:[1240,1024,778,480],
+                   gridheight:[950,700,700,700],
+                   lazyType:"none",
+                   parallax: {
+                       type:"scroll",
+                       origo:"slidercenter",
+                       speed:400,
+                       speedbg:0,
+                       speedls:0,
+                       levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+                   },
+                   shadow:0,
+                   spinner:"off",
+                   stopLoop:"off",
+                   stopAfterLoops:-1,
+                   stopAtSlide:-1,
+                   
+                   autoHeight:"off",
+                   fullScreenAutoWidth:"off",
+                   fullScreenAlignForce:"off",
+                   fullScreenOffsetContainer: "",
+                   fullScreenOffset: "0",
+                   hideThumbsOnMobile:"off",
+                   hideSliderAtLimit:0,
+                   hideCaptionAtLimit:0,
+                   hideAllCaptionAtLilmit:0,
+                   debugMode:false,
+                   
+               });
+           }
+       });	
+/* menü */
+
+$(document).ready(function() {
+	var xhr;
+
+	var ajax_inprocess = false;
+
+	$(document).ajaxStart(function() {
+	ajax_inprocess = true;
+	});
+
+	$(document).ajaxStop(function() {
+	ajax_inprocess = false;
+	});
+
+
+	var lookup = function() {
+	{
+
+		var input = $(this);
+		inputString=$(this).val();
+		if(inputString.length == 0) {
+
+			$('.suggestions').fadeOut(); // Hide the suggestions box
+
+		} else {
+
+	if(ajax_inprocess)
+	{
+		xhr.abort();
+		}	
+			 xhr = $.ajax({
+				
+			    type: "POST",
+			    url: 'https://erketasarim.com/api/search',
+			    data: "queryString="+inputString,
+			    success: function(data){ 
+			    	
+		            
+					$('.suggestions').fadeIn(); // Show the suggestions box
+					$('.suggestions').html(data); // Fill the suggestions box
+		
+		
+			    }
+			});
+			
+		
+
+		}
+
+	}
+	};
+	$('.inputString').on('keyup', lookup);
+
+	$('.inputString').on('keypress',function(e){
+
+		    if(e.which == 13) {
+		    	e.preventDefault();
+		   
+		    }
+
+	} );
+
+	$("#searchresults").on('click',function(){
+		$('.inputString').val("");
+		$('#suggestions').fadeOut();
+
+	});
+
+	
+	
+});
+
+
+        $( ".home-up-down" ).click(function() {
+            $('html,body').animate({
+                scrollTop: $(".scroll-stop").offset().top-80},
+            'slow');
+        });
+       
+   </script>
+   
+
+		</script>
+</body>
+</html>
+		
